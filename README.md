@@ -4,7 +4,7 @@
 
 ![scrum-poker-planning](https://socialify.git.ci/Hazem-Ben-Khalfallah/scrum-poker-planning/image?description=1&descriptionEditable=A%20team%20friendly%20and%20realtime%20Scrum%20poker%20planning%20web%20app.&font=Raleway&forks=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
 
-# Scrum Poker application
+# Scrum Poker application:
 Vote your stories instantly & get the result in a blink!
 
 Scrum Poker is a powerful tool to make faster and more accurate estimations and most important of all, no developer influences his team mates!
